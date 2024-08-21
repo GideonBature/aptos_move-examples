@@ -50,3 +50,4 @@ module my_addrx::example_5 {
         let sum = sum_using_loop(5);
         print(&sum);
     }
+}
